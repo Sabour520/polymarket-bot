@@ -1,0 +1,19 @@
+# Polymarket CLOB client
+py-clob-client>=0.16.0
+
+# Data / numerics
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Plotting (used in backtest entry point)
+matplotlib>=3.8.0
+
+# Optional: faster data loading
+pyarrow>=14.0.0
+
+# Development / testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
